@@ -1,7 +1,6 @@
-# Schreenshots
-![kripa_nand](https://user-images.githubusercontent.com/84653657/120697722-b3dde100-c4cb-11eb-9f34-d306defa6178.jpeg)
-![kripa_nand](https://user-images.githubusercontent.com/84653657/120697734-b6403b00-c4cb-11eb-96c3-64f2aff74838.jpeg)
-![kripa_nand](https://user-images.githubusercontent.com/84653657/120697746-b8a29500-c4cb-11eb-924b-48bef61ae84d.jpeg)
+# Quiz App
+![erkripa](https://user-images.githubusercontent.com/69295859/135135085-2eda3673-94ec-4644-96c6-6e780152f4d6.png)
+![erkripa](https://user-images.githubusercontent.com/69295859/135135019-b5158bac-07bc-46ef-a3e5-4f1117c1bb4f.png)
 
 # Quizzler Challenge - Starting Files
 
